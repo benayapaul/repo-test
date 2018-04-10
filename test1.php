@@ -1,3 +1,3 @@
 <?php
-echo "test1 file";
+echo "test1 staging file";
 ?>
